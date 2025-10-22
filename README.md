@@ -12,7 +12,7 @@ I'm most confident working with **Java**, but I also use **JS/TS**, **React** pr
 ## Check out this helpful Pomodoro Timer I made as well ⌚️
 
 <a href="https://gabriel-wright.github.io/React-Pomo/" target="_blank">
-  <img src="Pomo-React-Preview.png" width="600" alt="Pomodoro Timer Preview" />
+  <img src="pomo-react-preview.png" width="600" alt="Pomodoro Timer Preview" />
 </a>
 
 ## Check out my personal blog here too! 💻
