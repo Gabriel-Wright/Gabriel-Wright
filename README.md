@@ -1,19 +1,13 @@
 # Gabriel Wright 🌞
 
-<!--
-**Gabriel-Wright/Gabriel-Wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello - I am Gabriel. Professionally I work as a Software Developer.
+I'm most confident working with Java, but I've also used JS, React professionally and have used other technologies e.g. C#/Unity for personal projects.
 
-Here are some ideas to get you started:
+Check the Unity game my friends and I released on steam here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://store.steampowered.com/app/3240790/Chaotic_Cats/" target="_blank">
+  <img src="
+</a>
 
 ### 🧰 Languages and Tools I've Used
 
@@ -31,12 +25,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<br />
 
 ## Checkout my personal site here:
 
-
-
-
-<br />
-
-#
+<a href="https://gabriel-wright.com" target="_blank">
+  <img src="Website%20Preview.png" width="600" alt="Website Preview" />
+</a>
